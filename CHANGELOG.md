@@ -2,6 +2,10 @@
 
 ## Version 7
 
+### Version 7.10.2 (21/04/2024)
+
+- Introduce new variable for iOS `IOS_GOOGLE_UTILITIES_VERSION` to update pod version of `GoogleUtilities`. Default to `7.11.5`.
+
 ### Version 7.10.1 (08/11/2023)
 
 - Remove post install script (for installing ionic native dependencies) causing issue with recent Node.js versions 
